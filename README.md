@@ -17,6 +17,8 @@ O projeto foi dividio em 4 partes: Visão do Cliente, Visão do Comportamento, V
 
 Essa parte visa analisar o número de clientes em vários aspectos: escolaridade, estado civil, salário e tipos de compra.
 
+![Gráfico](imagens/Visão do Cliente.png)
+
 ## Visão do Comportamento
 
 Essa parte tem como objetivo analisar o comportamento dos clientes em relação aos gastos considerando o salário, número de filhos em casa, estado civil e escolaridade.
