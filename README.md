@@ -6,12 +6,13 @@
 - [Visão do Cliente](#visão-do-cliente)
 - [Visão do Comportamento](#visão-do-comportamento)
 - [Visão das Campanhas](#visão-das-campanhas)
+- [Visão dos Pontos de Venda](#visão-dos-pontos-de-venda)
 
 ## Introdução
 
 Este projeto foi desenvolvido como parte do Mini-Projeto 1 do curso Microsoft Power BI para Business Intelligence e Data Science da DSA.
 
-O objetivo é analisar campanhas de marketing por meio de dashboards interativos construídos no Power BI, explorando diferentes perspectivas dos dados.
+O objetivo é analisar campanhas de marketing por meio de dashboards construídos no Power BI, explorando diferentes perspectivas dos dados.
 
 A análise foi estruturada em quatro visões principais: Cliente, Comportamento, Campanhas e Pontos de Venda. Cada uma delas aborda aspectos específicos para melhor compreensão do perfil dos clientes e da efetividade das campanhas.
 
