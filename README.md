@@ -35,7 +35,7 @@ Essa parte visa entender o perfil dos clientes que compraram ou não os produtos
 
 Essa parte tem por objetivo que tipos de produtos venderam mais em várias localidades e por ano.
 
-![Gráfico](imagens/visao_cliento.jpeg)
+![Gráfico](imagens/visao_pontos_venda.jpeg)
 
 
 
