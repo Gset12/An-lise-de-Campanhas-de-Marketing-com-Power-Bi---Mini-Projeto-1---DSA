@@ -1,4 +1,4 @@
-# Análise de Campanhas de Marketing com Power BI - Mini- Projeto-1 - DSA
+# Análise de Campanhas de Marketing com Power BI - Mini-Projeto 1 (DSA)
 
 ## Sumário
 
@@ -9,31 +9,33 @@
 
 ## Introdução
 
-Este projeto tem como objetivo realizar o Mini-Projeto 1 do curso Microsoft Power BI para Business Intelligence e Data Science da DSA. Este projeto visa analisar campanhas de marketing usando como ferramenta o Power BI.
+Este projeto foi desenvolvido como parte do Mini-Projeto 1 do curso Microsoft Power BI para Business Intelligence e Data Science da DSA.
 
-O projeto foi dividio em 4 partes: Visão do Cliente, Visão do Comportamento, Visão das Campanhas e Visão dos Pontos de Venda. As seções seguintes eploram cada um as das 4 partes.
+O objetivo é analisar campanhas de marketing por meio de dashboards interativos construídos no Power BI, explorando diferentes perspectivas dos dados.
+
+A análise foi estruturada em quatro visões principais: Cliente, Comportamento, Campanhas e Pontos de Venda. Cada uma delas aborda aspectos específicos para melhor compreensão do perfil dos clientes e da efetividade das campanhas.
 
 ## Visão do Cliente
 
-Essa parte visa analisar o número de clientes em vários aspectos: escolaridade, estado civil, salário e tipos de compra.
+Nesta seção, são analisadas características demográficas dos clientes: escolaridade, estado civil, faixa salarial e padrões de compra.
 
 ![Gráfico](imagens/visao_cliente.jpeg)
 
 ## Visão do Comportamento
 
-Essa parte tem como objetivo analisar o comportamento dos clientes em relação aos gastos considerando o salário, número de filhos em casa, estado civil e escolaridade.
+Aqui, o foco é compreender o comportamento de consumo dos clientes, relacionando gastos com variáveis como renda, número de filhos, estado civil e nível de escolaridade.
 
 ![Gráfico](imagens/visao_comportamento.jpeg)
 
 ## Visão das Campanhas
 
-Essa parte visa entender o perfil dos clientes que compraram ou não os produtos.
+Esta análise busca identificar o perfil dos clientes que aderiram (ou não) às campanhas de marketing, permitindo avaliar sua efetividade.
 
 ![Gráfico](imagens/visao_campanhas.jpeg)
 
 ## Visão dos Pontos de Venda
 
-Essa parte tem por objetivo que tipos de produtos venderam mais em várias localidades e por ano.
+Nesta etapa, são analisados os produtos mais vendidos ao longo do tempo e em diferentes localidades, permitindo identificar padrões regionais e tendências de vendas.
 
 ![Gráfico](imagens/visao_pontos_venda.jpeg)
 
